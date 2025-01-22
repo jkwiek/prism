@@ -13,7 +13,6 @@ From the post-end, I am examining the following factors:
 - number of comments on post
 - duration of video
 - verified status
-- frequency of posts*
 - average amount of like, comment, and views for entire account
 - length of video description
 - number of posts* on account
@@ -25,7 +24,4 @@ From the commenter-end, I will examine the following factors:
 - size of commenter's following
 - follower/following ratio of commenter
 - time difference between poster and commenter*
-- number of posts of commenter
-- size of commenter's following
 - average like, comments, and views on commenter's videos
-- frequency of commenter's posts*
